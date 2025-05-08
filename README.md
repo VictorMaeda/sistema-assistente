@@ -1,2 +1,2 @@
 # sistema-assistente
-O projeto contém alguma funcionalidades acionadas por voz
+O projeto contém algumas funcionalidades acionadas por voz
